@@ -12,7 +12,7 @@ interpersonal skills and a relentless drive to learn and grow as a professional.
   permissions, meeting management, and multi-user access
   Implemented display adjustments to cater to different customer types
   Integrated support for multiple SMS in the system
-  Developed appointment coordination and message sending features, with support for various languages
+  Developed appointment coordination and message sending features, with support for various languages.
 
 - 🌱 The International Center for Cyber Professions of the Foreign Studies Unit and the Cyber Factory of
   Alta Systems
