@@ -3,9 +3,10 @@
 ---
 
 ### 👨‍💻 About me:
+Full-Stack Developer, Experience as a Backend Developer and in Management, Cyber-Security Course graduate.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+I am highly motivated, autodidact, excel under pressure, responsible, team player and very detail driven, high interpersonal skills, time management abilities, And I have a great passion for the programming world.
 
-As a recent graduate of a rigorous Full Stack Developer and Programming Course,<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I possess exceptional
-interpersonal skills and a relentless drive to learn and grow as a professional.
+
 
 - 🔭 Backend Developer - Troi Design & Development.
   Designed and developed a unique system with server-side + client-side solutions, including PHP, MySQL, Git, Trello, Code-igniter, JavaScript, HTML5 & CSS3 and SAAS
