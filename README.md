@@ -27,7 +27,7 @@ I am highly motivated, autodidact, excel under pressure, responsible, team playe
   attacks, Python automation, mobile security, web application testing, and malware analysis. Overall, the
   curriculum provided a strong foundation in essential cybersecurity principles and practices
 
-- 🌱 DevOps Engineering Training  
+- 🚀 DevOps Engineering Training  
   Hands-on DevOps course covering CI/CD pipelines, Docker, Kubernetes, AWS, Terraform, Linux, GitHub Actions/Jenkins, infrastructure as code, monitoring, and deployment automation.  
   Focused on building, deploying, and maintaining scalable, production-ready systems.
 
