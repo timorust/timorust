@@ -27,6 +27,10 @@ I am highly motivated, autodidact, excel under pressure, responsible, team playe
   attacks, Python automation, mobile security, web application testing, and malware analysis. Overall, the
   curriculum provided a strong foundation in essential cybersecurity principles and practices
 
+  - 🌱 **DevOps Engineering Training**  
+  Hands-on DevOps course covering CI/CD pipelines, Docker, Kubernetes, AWS, Terraform, Linux, GitHub Actions/Jenkins, infrastructure as code, monitoring, and deployment automation.  
+  Focused on building, deploying, and maintaining scalable, production-ready systems.
+
 - 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-timorust-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/timorust) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:timorust1@gmail.com)
 
 ---
