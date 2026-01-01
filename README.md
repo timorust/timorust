@@ -71,8 +71,13 @@ I am highly motivated, autodidact, excel under pressure, responsible, team playe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="40" height="40"/>&nbsp;
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6e1.svg" title="Cybersecurity / Defense" alt="Cybersecurity Shield" width="36" height="36"/>&nbsp;
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f512.svg" title="Encryption / Security" alt="Encryption" width="36" height="36"/>&nbsp;
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f575.svg" title="Penetration Testing" alt="Pentesting" width="36" height="36"/>&nbsp;
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9ea.svg" title="Malware Analysis" alt="Malware Analysis" width="36" height="36"/>&nbsp;
 </div>
+
 
 
 
