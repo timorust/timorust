@@ -80,12 +80,13 @@ I am highly motivated, autodidact, excel under pressure, responsible, team playe
 
 ### 💻 Completed courses:
 
-| Courses                                                                                    |       Data        |
-| ------------------------------------------------------------------------------------------ | :---------------: |
-| Programming Course and Introduction to Algorithms in C Language / Start in programming     | 01/2018 - 03/2020 |
-| International Center for High-Tech Studies and INT Integration/Full Stack Developer Course | 01/2020 - 01/2021 |
-| The International Center for Cyber of Alta Systems/Cyber Specialist                        | 01/2022 - 01/2023 |
-| DevOps Engineering Course (Cloud, CI/CD, Docker, Kubernetes, Terraform, AWS)  
+| Courses                                                                                              |       Date        |
+| ---------------------------------------------------------------------------------------------------- | :---------------: |
+| Programming Course and Introduction to Algorithms in C Language / Start in programming               | 01/2018 - 03/2020 |
+| International Center for High-Tech Studies and INT Integration / Full Stack Developer Course          | 01/2020 - 01/2021 |
+| The International Center for Cyber of Alta Systems / Cyber Specialist                                 | 01/2022 - 01/2023 |
+| DevOps Engineering Course (Cloud, CI/CD, Docker, Kubernetes, Terraform, AWS)                          | 01/2024 - 01/2025 |
+
 
 ---
 
