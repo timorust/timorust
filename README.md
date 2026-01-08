@@ -99,13 +99,15 @@ I am highly motivated, autodidact, excel under pressure, responsible, team playe
 
 ![codewars](https://www.codewars.com/users/timorust/badges/large)
 
+![Stars](https://img.shields.io/github/stars/timorust?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/timorust?style=for-the-badge)
+![Repo size](https://img.shields.io/github/repo-size/timorust/ai-desc?style=for-the-badge)
+
+
 ### ⚙️ GitHub statistics:
 
 <table>
   <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=timorust&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=timorust&layout=compact&theme=vision-friendly-dark" />
     </td>
