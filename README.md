@@ -79,6 +79,8 @@ I am highly motivated, autodidact, excel under pressure, responsible, team playe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://cdn.simpleicons.org/elementor" title="Elementor" alt="Elementor" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows Server" alt="Windows Server" width="40" height="40"/>
 </div>
 
 
